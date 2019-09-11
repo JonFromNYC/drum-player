@@ -1,5 +1,5 @@
 ## Instructions
-Press the button on your keyboard corresponding to the letter on the screen. Each letter is linked to a sound. 
+First make sure the volume is on. When the page loads, press the button on your keyboard corresponding to the letter on the screen. Each letter is linked to a sound.
 
 ## How this was made
 This program was built by adding vanilla JavaScript to files already containing audio files. Vanilla JavaScript, HTML5 & CSS is used without jQuery. 
